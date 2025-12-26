@@ -1,0 +1,10 @@
+           IDENTIFICATION DIVISION.
+           PROGRAM-ID IMC.
+           AUTHOR RAFAEL
+
+           DATA DIVISION.
+           WORKING-STORAGE SECTION.
+
+           PROCEDURE DIVISION.
+           STOP RUN.
+
